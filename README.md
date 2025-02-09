@@ -1,4 +1,4 @@
-Voice Assistant (Weather & Wikipedia)
+Voice Assistant (WEAK_AI) 
 -------------------------------------
 
  **Important considerations**
@@ -11,6 +11,10 @@ Voice Assistant (Weather & Wikipedia)
 - Integrate with various APIs and services to access and process information.
 - Implement more sophisticated response generation mechanisms, possibly leveraging natural language generation models.
 - Incorporate error handling and user feedback for a more robust experience.
+  
+ ------------------------------------------------------------------------------------------------
+ !Click build folder -> weak_ai.ipynb ~ basic version, enhanced_version.ipynb ~ enhanced version
+ -----------------------------------------------------------------------------------------------
 
 📌 Overview
 ------------
