@@ -1,0 +1,36 @@
+what is the weather -> weather
+what do you think about conversational agent -> news
+what do you think about conversational agent -> stock
+Sorry, I couldn't understand that. -> joke
+armenia weather data -> weather
+what do you think about apple -> stock
+Sorry, I couldn't understand that. -> joke
+what do you think about conversational agent from wikipedia -> stock
+weather -> weather
+could you could you return the -> stock
+what does what does it means of conver -> news
+what do you think about -> stock
+what is apple stock data -> stock
+what do you think about donald tr -> stock
+what does it means of ai -> stock
+what do you think about -> news
+what do you think about conversational agent -> news
+what do you think about conversation agent -> news
+what you think about donald tr -> news
+what do you think about conversational agent -> news
+wikipedia -> joke
+Sorry, I couldn't understand that. -> joke
+what do you think about open ai -> wikipedia
+what is the current weather in -> weather
+what is the what is the meaning of artificial intelligence -> wikipedia
+what is machine learning -> wikipedia
+about the company peter england -> wikipedia
+what do you think about actor ajith kumar -> wikipedia
+what is the current weather -> weather
+current weather -> weather
+about company rolls-royce -> wikipedia
+what do you think about -> wikipedia
+what do you think about company open ai -> wikipedia
+what do you think about charging pt -> wikipedia
+about chat gbt -> wikipedia
+what is you think about chat gpt -> wikipedia
